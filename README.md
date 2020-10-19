@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![](/StachRedeker bewegende tekst.gif)
+![hoi](/StachRedeker_bewegende_tekst.gif)
