@@ -1,1 +1,1 @@
-![](/StachRedeker_bewegende_tekst.gif)
+![](/StachRedeker.png)
