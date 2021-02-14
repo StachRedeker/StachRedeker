@@ -1,1 +1,1 @@
-![](/StachRedeker.png)
+![](/StachRedeker_groen.png)
