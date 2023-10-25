@@ -1,6 +1,6 @@
 **Hi! I'm Stach Redeker 👋**
 
-I'm a hardware engineer by heart, but sometimes I dabble around in software projects. My GitHub is a place where I show my work and aim to contribute to the open-source world. You can find some of my favourite projects below.
+I'm a hardware engineer by heart, but sometimes I dabble around in software projects. My GitHub is the place where I show my work and aim to contribute to the open-source world. You can find some of my favourite projects below.
 
 ### Hardware
 - [RTCwakeUpComputer](https://github.com/StachRedeker/RTCwakeUpComputer): A low-cost, hardware-based solution for turning a computer on and off at designated times, centered around the DS3231 RTC.
